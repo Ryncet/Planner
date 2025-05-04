@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "title": "English Membean",
+        "due_date": "2025-05-04",
+        "priority": "High",
+        "completed": true
+    },
+    {
+        "title": "Roxxem Spanish HW",
+        "due_date": "2025-05-05",
+        "priority": "Medium",
+        "completed": true
+    },
+    {
+        "title": "Math Project",
+        "due_date": "2025-05-05",
+        "priority": "Medium",
+        "completed": true
+    }
+]
